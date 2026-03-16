@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# البيئة
+.env
+venv/
+env/
+
+# قاعدة البيانات والسجلات
+*.db
+*.sqlite
+*.log
+app.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
